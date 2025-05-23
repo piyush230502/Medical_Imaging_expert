@@ -1,0 +1,5 @@
+image/
+backend/__pycahe__/
+app.log
+uploads/
+.env

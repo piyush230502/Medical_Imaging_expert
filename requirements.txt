@@ -1,0 +1,9 @@
+flask
+werkzeug
+Pillow
+agno
+google-genai
+duckduckgo-search
+python-dotenv
+requests
+markdown2  # For rendering markdown in Flask, or use a JS library
